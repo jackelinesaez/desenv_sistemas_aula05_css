@@ -1,0 +1,25 @@
+body{ 
+    background: #6f7a7c; 
+}
+p.vermelho{
+    color:red; 
+    font-family: cursive; 
+    text-align: center;
+}
+p.azul{
+    color:blue;
+    font-family: 'Trebuchet MS';
+    text-align: left;
+}
+p.verde{
+    color: green;
+    font-family: fantasy;
+    text-align: right;
+}
+.geral{ 
+    color:white;
+}
+h1,h2,h3{ 
+    color: #fff000
+}
+
